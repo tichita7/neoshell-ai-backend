@@ -31,8 +31,8 @@ This backend handles:
 - Uvicorn
 
 ### AI Integration
-- Groq LLM
-- Llama 3.1
+- Groq API
+- Meta Llama 3.1 8B Instant
 
 ---
 
